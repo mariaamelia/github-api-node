@@ -3,8 +3,6 @@
 const  axios = require('axios');
 const api = {
     baseUrl: "https://api.github.com",
-    //client_id : "2675dcc2e12e530c8b37",
-   // client_secret: "5cb09b0d7698e15ada1ca981e1f831b73cb27d7c"
 }
 
 const messageError = "Ops: User not found";

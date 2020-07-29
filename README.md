@@ -1,4 +1,4 @@
-# github-api-node
+# github-api-node was made in Node.js
 # This API return a users list  according to a user name or a user repository list or user detail. 
 
 # For User details /api/users/anna/details 
